@@ -1,0 +1,15 @@
+{
+  "name": "shopify-fall-2017-challenge",
+  "version": "1.0.0",
+  "description": "Solution to the Shopify Fall 2017 Internship Challenge",
+  "scripts": {
+    "backend": "node backend-development-challenge/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul-Rasheed Audu",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}

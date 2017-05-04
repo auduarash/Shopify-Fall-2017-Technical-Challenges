@@ -9,6 +9,7 @@
   "author": "Abdul-Rasheed Audu",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.4.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.0"
   }
